@@ -2,7 +2,7 @@
 
 * `input.o` represents the object file to be "loaded".
 
-* `output.mem` reresents state of memory. Initially blank.
+* `output.mem` represents state of memory. Initially blank.
 
 * `main.c` is the loader.
 
